@@ -35,7 +35,7 @@ const Login = () => (
       </section>
       <p className='login__container--register'>
         No tienes ninguna cuenta
-        <Link to="/register">
+        <Link to='/register'>
           Regístrate
         </Link>
       </p>
